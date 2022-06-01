@@ -13,7 +13,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "sharp": "^0.23.1"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "rimraf": "^3.0.0"
